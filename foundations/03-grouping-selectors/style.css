@@ -3,3 +3,13 @@
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
+
+.baron{
+    background-color: black;
+    color: white;
+    font-weight: 700;
+}
+
+.dragon{
+    background-color: yellow;
+}
